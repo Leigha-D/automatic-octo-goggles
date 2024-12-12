@@ -2,6 +2,6 @@
 
 <h2>I'm testing something new 🐚</h2>
 
-~Can you see this @leighad~
+*Can you see this @leighad*
 
 Seems to work so far, but time will tell indeed. 
